@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cuánto es?</string><string name="hello_world">Hola mundo!</string>
+    <string name="action_settings">Configuración</string>
+    <string name="def_select">Seleccionar</string>
+
+    <string-array name="currencies">
+        <item>USD $</item>
+        <item>EUR €</item>
+        <item>CRC ¢</item>
+        <item>MXN $</item>
+    </string-array>
+
+    <string name="title_activity_settings">Eliga sus monedas preferidas</string>
+    <string name="desc">Intercambiar entre monedas</string>
+    <string name="oneDollar">$1 es</string>
+    
+
+</resources>
